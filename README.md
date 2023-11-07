@@ -22,9 +22,11 @@ Click on projects to view more details.
 Use the contact form to get in touch.
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript
+-HTML5
+
+-CSS3
+
+-JavaScript
 
 ## License
 This project is licensed under the MIT License.
